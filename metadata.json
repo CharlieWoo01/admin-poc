@@ -1,0 +1,5 @@
+{
+  "name": "Mission Control Admin Panel",
+  "description": "A modern, component-based admin panel for Mission Gaming, refactored from EasyAdmin. It features a dark theme, RBAC, and is powered by a mock GraphQL API.",
+  "requestFramePermissions": []
+}
